@@ -27,3 +27,7 @@ The city with the highest avocado consumption will be identified, and its volume
 
 ### By employing statistical inference and graphical visualization techniques, this analysis aims to provide insights into the relationship between avocado prices and volume, consumption patterns across regions, the popularity of different avocado varieties, and the comparison between the most consuming city and the overall trend in the United States.
 
+
+
+Refrence: https://www.kaggle.com/datasets/valentinjoseph/avocado-sales-20152021-us-centric
+
